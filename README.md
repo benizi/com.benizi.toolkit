@@ -15,6 +15,16 @@ The BROWSE action is not supported on the current platform!
 
 But, also, I'm trying to refresh my Clojure skills (e.g., using Boot).
 
+## Usage
+
+```sh
+## just test it
+boot browser try-it
+
+## tinker
+boot browser debug repl
+```
+
 ## Current status
 
 - [ ] Clojure `gen-class` version doesn't work
